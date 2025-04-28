@@ -1,0 +1,31 @@
+.body{
+    background-color: rgb(180, 149, 93);
+}
+.header{
+    background-color: rgb(96, 76, 48);
+    padding: 70px;
+}
+.content{
+    background-color: rgb(143, 122, 94);
+    display: flex;
+
+}
+
+.teksts{
+padding: 20px;
+background-color: rgb(135, 102, 66);
+width: 50%;
+display: inline-block;}
+
+.zimejums{
+background-color: rgb(100, 88, 55);
+width: 10%;
+padding: 15%;
+display: inline-block;}
+
+.spele{
+    background-color: rgb(153, 128, 107);
+    width: 40%;
+    padding: 55%;
+    display: inline-block; }  
+    
